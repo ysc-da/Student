@@ -1,6 +1,6 @@
-package com.expense.main;
+package com.ysc.main;
 
-import com.expense.ui.MainFrame;
+import com.ysc.ui.MainFrame;
 
 import javax.swing.*;
 

@@ -1,4 +1,4 @@
-package com.expense.ui;
+package com.ysc.ui;
 
 import javax.swing.*;
 import java.awt.*;
